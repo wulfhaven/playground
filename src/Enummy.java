@@ -9,11 +9,11 @@ public class Enummy {
         System.out.println(StakeholderReason.CREATOR.name());
 
     }
+
     public enum StakeholderReason {
         CREATOR,
         EDITOR,
         PURCHASER,
         OTHER;
     }
-
 }
