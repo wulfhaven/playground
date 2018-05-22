@@ -1,5 +1,7 @@
+package com.ulvhamne;
+
 /**
- * This is the type dumbIsOdd.
+ * This is the type com.ulvhamne.dumbIsOdd.
  *
  * @author <a href="mailto:jsvg88@scania.com">jsvg88</a>
  * @since 2017-11-01

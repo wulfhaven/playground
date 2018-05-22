@@ -1,8 +1,10 @@
+package com.ulvhamne;
+
 import java.util.Arrays;
 import java.util.List;
 
 /**
- * This is the type AsArrayAsList.
+ * This is the type com.ulvhamne.AsArrayAsList.
  *
  * @author <a href="mailto:jsvg88@scania.com">jsvg88</a>
  * @since 2017-09-28

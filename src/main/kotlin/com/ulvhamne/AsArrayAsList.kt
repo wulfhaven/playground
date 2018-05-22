@@ -1,17 +1,14 @@
+package com.ulvhamne
+
 /**
- * This is the type AsArrayAsList.
+ * This is the type com.ulvhamne.AsArrayAsList.
  *
- * @author <a href="mailto:jsvg88@scania.com">jsvg88</a>
- * @since 2017-09-28
  */
 import java.util.Arrays
 
 /**
- * This is the type AsArrayAsList.
-
- * @author [jsvg88](mailto:jsvg88@scania.com)
- * *
- * @since 2017-09-28
+ * This is the type com.ulvhamne.AsArrayAsList.
+ *
  */
     fun main(args: Array<String>) {
 

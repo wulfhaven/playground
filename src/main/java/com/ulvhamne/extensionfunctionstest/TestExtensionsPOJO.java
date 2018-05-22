@@ -1,4 +1,4 @@
-package ExtensionFunctionsTest;
+package com.ulvhamne.extensionfunctionstest;
 
 public class TestExtensionsPOJO {
     private int number = 3;

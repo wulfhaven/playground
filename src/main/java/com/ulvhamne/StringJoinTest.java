@@ -1,3 +1,5 @@
+package com.ulvhamne;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -5,7 +7,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * This is the type StringJoinTest.
+ * This is the type com.ulvhamne.StringJoinTest.
  *
  * @author <a href="mailto:jsvg88@scania.com">jsvg88</a>
  * @since 2018-03-09

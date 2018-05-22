@@ -1,5 +1,7 @@
+package com.ulvhamne;
+
 /**
- * This is the type Enummy.
+ * This is the type com.ulvhamne.Enummy.
  *
  * @author <a href="mailto:jsvg88@scania.com">jsvg88</a>
  * @since 2018-03-12
@@ -14,6 +16,6 @@ public class Enummy {
         CREATOR,
         EDITOR,
         PURCHASER,
-        OTHER;
+        OTHER,
     }
 }

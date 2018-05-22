@@ -1,10 +1,12 @@
+package com.ulvhamne;
+
 import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 /**
- * This is the type Java9Tests.
+ * This is the type com.ulvhamne.Java9Tests.
  *
  * @author <a href="mailto:jsvg88@scania.com">jsvg88</a>
  * @since 2017-09-28

@@ -1,5 +1,5 @@
 @file:JvmName("KotlinExtension")
-package ExtensionFunctionsTest
+package com.ulvhamne.extensionfunctionstest
 
 
 fun TestExtensionsPOJO.add() = this.fluffyBunny + this.number

@@ -1,15 +1,16 @@
+package com.ulvhamne;
+
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Entities;
 import org.jsoup.safety.Whitelist;
 
 /**
- * This is the type HtmlCleanupTest.
+ * This is the type com.ulvhamne.HtmlCleanupTest.
  *
  * @author <a href="mailto:jsvg88@scania.com">jsvg88</a>
  * @since 2017-12-11
  */
-
 
 class HtmlCleanupTest {
     public static  void main(String... args) {

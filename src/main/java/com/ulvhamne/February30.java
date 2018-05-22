@@ -1,9 +1,11 @@
+package com.ulvhamne;
+
 import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
 
 /**
- * This is the type February30.
+ * This is the type com.ulvhamne.February30.
  *
  * @author <a href="mailto:jsvg88@scania.com">jsvg88</a>
  * @since 2018-02-08
